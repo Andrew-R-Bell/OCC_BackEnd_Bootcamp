@@ -1,11 +1,11 @@
 //* JS Activity */
 
-let num1=x;
-let num2=y;
+let x=5;
+let y=4;
 
-operand = op
+operand = "*"
 
-switch(operand)
+switch(operand) {
     case "+":
         console.log(x + y);
         break;
@@ -20,15 +20,4 @@ switch(operand)
         break;
     default:
         console.log("Well that didn't work...");
-
-
-
-
-
-
-
-let sum= num1+num2;
-console.log("Sum is: ",sum)
-
-
-
+    }
