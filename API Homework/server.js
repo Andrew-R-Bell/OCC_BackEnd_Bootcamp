@@ -8,7 +8,8 @@ const app = express();
 app.use(express.json());
 
 // Routes
-app.use("/api/posts", require("./src/route/post"))
+app.use("/api/posts", require("./src/route/post"));
+app.use("/api/users", require("./src/route/user"));
 
 // Connecting to the Database
 mongoose.connect(process.env.MONGO_URI)
@@ -20,4 +21,3 @@ mongoose.connect(process.env.MONGO_URI)
     .catch((error) => {
         console.error("Error connecting to MongoDB: ", error.message)
     })
-
