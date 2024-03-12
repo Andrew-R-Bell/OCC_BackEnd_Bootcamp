@@ -1,0 +1,8 @@
+{
+    "newUser": {
+        "username": "Andrew",
+        "password": "$2b$10$2Y6rThJEM7XUfeW3r5Um0eh4kyKvlJ.UbB0dqvtZ2GXS.12BjIEbq",
+        "_id": "65f06c1b9307682e19daec15",
+        "__v": 0
+    }
+}

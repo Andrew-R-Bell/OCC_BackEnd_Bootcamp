@@ -1,0 +1,149 @@
+{
+    "count": 8,
+    "posts": [
+        {
+            "_id": "65eda1f3ca7b9a33a93f5610",
+            "type": "Suit",
+            "style": "Pinstripe Single Breasted",
+            "label": "Hardy Amies",
+            "likes": 10,
+            "comments": [
+                {
+                    "body": "Awesome Suit!",
+                    "_id": "65eda1f3ca7b9a33a93f5611"
+                },
+                {
+                    "body": "So Elegant.",
+                    "_id": "65eda1f3ca7b9a33a93f5612"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65eda2feca7b9a33a93f5614",
+            "type": "Shirt",
+            "style": "White Cotton",
+            "label": "Ralph Lauren",
+            "likes": 8,
+            "comments": [
+                {
+                    "body": "Crisp White",
+                    "_id": "65eda2feca7b9a33a93f5615"
+                },
+                {
+                    "body": "Wrinkles Easily",
+                    "_id": "65eda2feca7b9a33a93f5616"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65eda383ca7b9a33a93f561d",
+            "type": "Pants",
+            "style": "Blue Denim Stretch ",
+            "label": "Denimsmith",
+            "likes": 12,
+            "comments": [
+                {
+                    "body": "So Comfy",
+                    "_id": "65eda383ca7b9a33a93f561e"
+                },
+                {
+                    "body": "Lightweight",
+                    "_id": "65eda383ca7b9a33a93f561f"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65eda3caca7b9a33a93f5621",
+            "type": "Shoes",
+            "style": "Brown Brogues ",
+            "label": "Windsor Smith",
+            "likes": 4,
+            "comments": [
+                {
+                    "body": "Classic Style",
+                    "_id": "65eda3caca7b9a33a93f5622"
+                },
+                {
+                    "body": "Well Worn In Look",
+                    "_id": "65eda3caca7b9a33a93f5623"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65eda461ca7b9a33a93f5640",
+            "type": "Shirt",
+            "style": "Hawaian ",
+            "label": "Kenji",
+            "likes": 18,
+            "comments": [
+                {
+                    "body": "Great Style",
+                    "_id": "65eda461ca7b9a33a93f5641"
+                },
+                {
+                    "body": "Slim Fit",
+                    "_id": "65eda461ca7b9a33a93f5642"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65eedcef85b6a4dc19253a8c",
+            "type": "T Shirt",
+            "style": "Black ",
+            "label": "Bonds",
+            "likes": 12,
+            "comments": [
+                {
+                    "body": "Classic Style",
+                    "_id": "65eedcef85b6a4dc19253a8d"
+                },
+                {
+                    "body": "Easy Fit",
+                    "_id": "65eedcef85b6a4dc19253a8e"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65f068f5441ac44da2d42ba7",
+            "type": "Skirt",
+            "style": "Plaid ",
+            "label": "Dangerfield",
+            "likes": 54,
+            "comments": [
+                {
+                    "body": "total groove babay",
+                    "_id": "65f068f5441ac44da2d42ba8"
+                },
+                {
+                    "body": "Hot",
+                    "_id": "65f068f5441ac44da2d42ba9"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65f06b569307682e19daebff",
+            "type": "Jeans",
+            "style": "Leather ",
+            "label": "Bespoke",
+            "likes": 23,
+            "comments": [
+                {
+                    "body": "lizzard king",
+                    "_id": "65f06b569307682e19daec00"
+                },
+                {
+                    "body": "Super Hot",
+                    "_id": "65f06b569307682e19daec01"
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
